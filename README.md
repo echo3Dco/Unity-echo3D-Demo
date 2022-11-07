@@ -1,10 +1,10 @@
 # Unity-echo3D-Demo
-Here is how to use the echo3D Unity SDK. There are 2 ways depending on if your project is new or existing. We have done most of the setup for you in the Demo scene, all you have to do is try out both methods and add the API key & Entry ID.
+Here is how to use the echo3D Unity SDK. There are 2 ways depending on if your project is new or existing. We have done most of the setup for you in the SampleScene scene, all you have to do is try out both methods and add the API key & Entry ID.
 
 
 ## Setup
 * Don't have an echo3D API key? Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
-* [Import the Unity SDK into Unity](https://docs.echo3d.co/unity/installation). _(Note: Our SDK supports Unity 2020.3 LTS and newer.)_
+* [Download Unity 2020.3 or later](https://docs.echo3d.co/unity/installation). _(Note: Our SDK supports Unity 2020.3 LTS and newer.)_
 * Clone this repo.
 
 ## Steps
