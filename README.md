@@ -1,5 +1,5 @@
 # Unity-echo3D-Demo
-Here is how to use the echo3D Unity SDK. There are 2 ways depending on if your project is new or existing.
+Here is how to use the echo3D Unity SDK. There are 2 ways depending on if your project is new or existing. We have done most of the setup for you in the Demo scene, all you have to do is try out both methods and add the API key & Entry ID.
 
 
 ## Setup
