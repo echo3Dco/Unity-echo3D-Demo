@@ -22,7 +22,7 @@ https://youtu.be/98bebj0g674
 
 <b>Option 1: If you’re integrating echo3D into an existing project</b>
 
-* Drag the `Echo3DHologram.cs` script onto the game object.
+* Drag the `Echo3DHologram.cs` script onto the game object that you want to host on the echo3D cloud.
 
 ![APIKeyAndParentPrefabGIF](https://user-images.githubusercontent.com/99516371/200437944-3ed2af31-0bc5-41a9-b6b5-067a5486530c.gif)
 
@@ -35,7 +35,7 @@ https://youtu.be/98bebj0g674
 
 <b>Option 2: If you’re starting a Unity project from scratch</b>
 
-* Drag both _Echo3DHologram_ and _Echo3DService_ prefabs into the Hierarchy from inside Packages/echo3D Unity SDK/Prefabs
+* Drag both _Echo3DHologram_ and _Echo3DService_ prefabs into the Hierarchy from inside Packages/echo3D Unity SDK/Prefabs.
 
 * On the _Echo3DHologram_ prefab, [set the API key](https://docs.echo3d.co/quickstart/access-the-console) and Entry ID from the Inspector.
 
