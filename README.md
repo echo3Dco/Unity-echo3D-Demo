@@ -14,7 +14,7 @@ Here is how to use the echo3D Unity SDK. There are 2 ways depending on if your p
 
 * Download the echo3D [Unity SDK](https://docs.echo3d.co/unity/installation) and unzip the folder.
 
-* [Copy the co.echo3d.unity subfolder into Unity’s Packages folder](https://medium.com/r/?url=https%3A%2F%2Fdocs.echo3d.co%2Funity%2Finstallation). Troubleshoot [here](https://docs.echo3d.co/unity/troubleshooting?q=newton). _(Note: Do not drag the subfolder directly into Unity, please use your File Explorer.)_
+* [Copy the co.echo3d.unity subfolder into Unity’s Packages folder](https://docs.echo3d.co/unity/installation). Troubleshoot [here](https://docs.echo3d.co/unity/troubleshooting?q=newton). _(Note: Do not drag the subfolder directly into Unity, please use your File Explorer.)_
 
 <b><i>The echo3D Unity SDK is now ready to be used! There are 2 ways to implement it.</b></i>
 
@@ -35,7 +35,7 @@ Here is how to use the echo3D Unity SDK. There are 2 ways depending on if your p
 
 * Drag both _Echo3DHologram_ and _Echo3DService_ prefabs into the Hierarchy from inside Packages/echo3D Unity SDK/Prefabs
 
-* On the _Echo3DHologram_ prefab, [set the API key](https://medium.com/r/?url=https%3A%2F%2Fdocs.echo3d.co%2Fquickstart%2Faccess-the-console) and Entry ID from the Inspector.
+* On the _Echo3DHologram_ prefab, [set the API key](https://docs.echo3d.co/quickstart/access-the-console) and Entry ID from the Inspector.
 
 _You have successfully connected the echo3D SDK! To see it in action, press Play in Unity. See below for more tools to manage your 3D asset in Unity._
 
